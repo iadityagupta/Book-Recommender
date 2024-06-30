@@ -18,10 +18,3 @@ Dataset link: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 
 - The last step is to create a function recommend which will take the book name as input from the user and it will return 4 similar books with the author.
 
-### Reference images  
-
-![Screenshot (81)](https://github.com/shruti-2412/Book-Recommendation-System/assets/99483160/1b8c922b-e119-49e3-958b-983fb24aea0e)
-
-![Screenshot (82)](https://github.com/shruti-2412/Book-Recommendation-System/assets/99483160/076c8fcd-6e21-4a4c-a4d6-cc8f5501cf8a)
-
-![Screenshot (83)](https://github.com/shruti-2412/Book-Recommendation-System/assets/99483160/4356a401-e89a-49c0-a32e-481e1b5df56e)
